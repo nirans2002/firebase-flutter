@@ -70,7 +70,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '543654006969',
     projectId: 'fir-flutter-d30ac',
     storageBucket: 'fir-flutter-d30ac.appspot.com',
-    iosClientId: '543654006969-i9j74924l2s1o2mhl1hqn43blhj1mvng.apps.googleusercontent.com',
+    iosClientId:
+        '543654006969-i9j74924l2s1o2mhl1hqn43blhj1mvng.apps.googleusercontent.com',
     iosBundleId: 'com.niran.firebaselearn.firebaseLearn',
   );
 }
